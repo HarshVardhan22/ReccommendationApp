@@ -1,3 +1,6 @@
+# Checkout this application : https://told-you-so.netlify.app/
+
+This is a recommendation application which shows you the recommendations on sources from where you can start your learning journey in software/web-dev industry
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
